@@ -1,0 +1,30 @@
+Web page http://www.itu.edu.tr contains word bilgisayar
+
+Web page http://www.itu.edu.tr contains word elektronik
+
+Web page http://www.dogus.edu.tr contains word bilgisayar
+
+Web page http://www.itu.edu.tr/rektorluk/akademisyen-profillerinin-guncellenmesi contains word bilgisayar
+
+Web page http://www.itu.edu.tr/rektorluk/akademisyen-profillerinin-guncellenmesi contains word elektronik
+
+Web page http://www.kutuphane.itu.edu.tr contains word bilgisayar
+
+Web page http://www.kutuphane.itu.edu.tr contains word elektronik
+
+Web page http://www.itu.edu.tr/itu-hakkinda/kampuslerde-yasam/kutuphane contains word bilgisayar
+
+Web page http://www.itu.edu.tr/itu-hakkinda/kampuslerde-yasam/kutuphane contains word elektronik
+
+Web page http://www.itu.edu.tr/itu-hakkinda/kampuslerde-yasam/kutuphane contains word elektronik
+
+Web page http://www.itu.edu.tr/akademi/fakulteler/denizcilik-fakultesi contains word bilgisayar
+
+Web page http://www.itu.edu.tr/akademi/fakulteler/denizcilik-fakultesi contains word elektronik
+
+Web page http://www.itu.edu.tr/akademi/enstituler/bilisim-enstiusu contains word bilgisayar
+
+Web page http://www.itu.edu.tr/akademi/enstituler/bilisim-enstiusu contains word elektronik
+
+Web page http://www.uolp.itu.edu.tr/ contains word elektronik
+
